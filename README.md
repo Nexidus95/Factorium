@@ -1,3 +1,3 @@
-# LaravelJWTAuthenticationExample
+Sukurto puslapio visas kodas su backend laravel ir fronend ReactJS.
 
-[Build JWT Authentication (Login and Signup) in Laravel 8 Application](https://www.remotestack.io/build-jwt-authentication-in-laravel/)
+Pats puslapis: https://factorium.herokuapp.com/#/
